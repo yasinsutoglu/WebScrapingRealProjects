@@ -10,7 +10,7 @@
 
 ## Folder Skeleton 
 ```
-Web_Scraping_Projects (Business Problem)
+Web_Scraping_Project (Business Problem)
 |
 A company that sells books online realized that low sales in the "Travel" and "Non-Fiction" categories.
 For this reason, the company needs to do taking the information of the books and prices from the given 
