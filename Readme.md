@@ -13,12 +13,10 @@
 ```
 Web_Scraping_Projects (folder)
 |
-|----readme.md              
-|----           
-|----
-        |----  
-        |---- 
-        |----  
+|--Rival_Price_Analysis               
+|--         
+|--Readme.md 
+ 
 ```
 
 <!-- --------------------------------------- -->
